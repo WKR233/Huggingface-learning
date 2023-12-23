@@ -1,0 +1,3 @@
+Primarily record the learning of huggingface course.
+
+To be honest, there is almost nothing needed to learn, so...
